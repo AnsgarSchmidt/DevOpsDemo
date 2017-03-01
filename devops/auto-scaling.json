@@ -6,12 +6,12 @@
 			"breachDuration": 30,
 			"instanceStepCountDown": 1,
 			"instanceStepCountUp": 1,
-			"lowerThreshold": 30,
+			"lowerThreshold": 40,
 			"metricType": "Memory",
 			"statWindow": 30,
 			"stepDownCoolDownSecs": 30,
 			"stepUpCoolDownSecs": 30,
-			"upperThreshold": 40
+			"upperThreshold": 50
 		}
 	]
 }
