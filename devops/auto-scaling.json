@@ -1,0 +1,17 @@
+{
+	"instanceMaxCount": 23,
+	"instanceMinCount": 1,
+	"policyTriggers": [
+		{
+			"breachDuration": 30,
+			"instanceStepCountDown": 1,
+			"instanceStepCountUp": 1,
+			"lowerThreshold": 30,
+			"metricType": "Memory",
+			"statWindow": 30,
+			"stepDownCoolDownSecs": 30,
+			"stepUpCoolDownSecs": 30,
+			"upperThreshold": 40
+		}
+	]
+}
