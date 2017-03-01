@@ -24,4 +24,4 @@ tar xvzf Bluemix_CLI_0.4.6_amd64.tar.gz
 chmod 777 Bluemix_CLI/bin/bluemix
 Bluemix_CLI/bin/bluemix plugin install auto-scaling -r Bluemix
 
-Bluemix_CLI/bin/bluemix as policy-attach Cebit2017-Python -p auto-scaling.json
+Bluemix_CLI/bin/bluemix as policy-attach Cebit2017-Python -p devops/auto-scaling.json
