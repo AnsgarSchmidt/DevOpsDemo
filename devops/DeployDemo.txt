@@ -1,0 +1,7 @@
+while true ; do cf apps; done
+
+while true ; do cf app Cebit2017-Python; done
+
+while true; do curl http://cebit2017-python.mybluemix.net/version ; done
+
+Active Deploy Window

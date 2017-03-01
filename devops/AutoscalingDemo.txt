@@ -1,0 +1,6 @@
+while true ; do cf app Cebit2017-Python; done
+
+siege -v -c 100 -t 5M https://cebit2017-python.mybluemix.net/add/150
+
+Autoscaling window
+
