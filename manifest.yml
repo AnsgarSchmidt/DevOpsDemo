@@ -5,7 +5,7 @@ applications:
   domain: mybluemix.net
   name: Cebit2017-Python
   host: Cebit2017-Python
-  disk_quota: 256M
+  disk_quota: 128M
   buildpack: https://github.com/cloudfoundry/python-buildpack
   services:
   - Auto-Scaling
