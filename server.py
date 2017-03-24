@@ -11,7 +11,7 @@ def Welcome():
 
 @app.route('/version')
 def version():
-    return "Dars"
+    return "Ds"
 
 @app.route('/add/<level>')
 def load(level):
